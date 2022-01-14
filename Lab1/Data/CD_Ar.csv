@@ -1,5 +1,5 @@
 Set,Run #1,Run #1,Run #1,Run #1,Run #1
-Internal Pressure P1 (kPa),Time (s),Internal Pressure P0 (kPa),Ambient Pressure (kPa),Differential Pressure₁₋₂ (kPa),Calc1 (units)
+Internal Pressure P1 (kPa),Time (s),Internal Pressure P0 (kPa),Ambient Pressure (kPa),Differential Pressure (kPa),Calc1 (units)
 104.67,139.600,112.52,100.71,11.80,112.52
 105.60,325.000,115.33,100.73,14.61,115.33
 105.30,574.400,114.41,100.73,13.67,114.41
